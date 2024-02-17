@@ -34,6 +34,6 @@
    * Mysql
    * Thymeleaf 3.2.2
    * Spring-JPA
-
+https://raw.githubusercontent.com/username/repository/branch/path/to/image.jpg
 4. ERD
-   ![Alt text](./img/ERD.PNG)
+   ![ERD](https://raw.githubusercontent.com/GaJaMy/StarCraft1-Replay-Board/main/img/ERD.png)
